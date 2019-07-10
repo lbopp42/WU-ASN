@@ -1,0 +1,14 @@
+TRAD:
+- HEX (simple hexa to ascii)
+- Base64 (echo "encoded" | base64 -D)
+- Binaire (https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+- morse (http://www.unit-conversion.info/texttools/morse-code/<Paste>)
+- base32 (https://www.dcode.fr/code-base-32)
+- decimal (https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
+- Bu_Fb_Lbh_Ner_Ovanel_Ovyvathny_?
+
+Stega:
+- https://www.aperisolve.fr/
+- TGVIYWNrX2NhX2NsYXF1ZSE=
+- echo "TGVIYWNrX2NhX2NsYXF1ZSE=" | base64 -D
+- LeHack_ca_claque!
